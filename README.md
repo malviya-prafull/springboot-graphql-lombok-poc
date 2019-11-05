@@ -1,7 +1,7 @@
 # Spring Boot - Lombok - GraphQl P.O.C.
 springboot-lombok-graphql microservice poc
 
-#Open Graphiql
+# Open Graphiql
 Request : http://localhost:8080/graphiql
 
 # Get Product By Id
@@ -24,7 +24,7 @@ Response :
   }
 }
 
-#Get Product List By Count
+# Get Product List By Count
 Body : 
 {
   products(count: 2) {
